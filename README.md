@@ -1,4 +1,4 @@
-# freedoge_bot
+# Bot for getting free Doge Coins
 This is a bot form where you can get free Doge Coin. I works on this website http://freedoge.online/ The bot has two modes.
 1) Head mode with mozilla Firefox
 2) Headless mode (for running in linux server)
